@@ -162,3 +162,4 @@
 - Update config — iteration 7 (2026)
 - Update config — iteration 10 (2026)
 - Update docs — iteration 11 (2026)
+- Extend coverage — iteration 18 (2026)
