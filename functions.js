@@ -177,3 +177,4 @@
 - Add feature — iteration 19 (2026)
 - Polish code — iteration 28 (2026)
 - Extend coverage — iteration 33 (2026)
+- Update config — iteration 41 (2026)
