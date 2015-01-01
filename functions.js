@@ -6,3 +6,4 @@
 - Document usage — iteration 33 (2015)
 - Add tests — iteration 35 (2015)
 - Add helper — iteration 38 (2015)
+- Refactor module — iteration 39 (2015)
