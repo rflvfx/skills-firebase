@@ -3,3 +3,4 @@
 - Add validation — iteration 12 (2015)
 - Add example — iteration 13 (2015)
 - Document usage — iteration 19 (2015)
+- Tweak implementation — iteration 23 (2015)
