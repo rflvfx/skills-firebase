@@ -9,3 +9,4 @@
 - Refactor module — iteration 39 (2015)
 - Add helper — iteration 43 (2015)
 - Minor cleanup — iteration 46 (2015)
+- Add feature — iteration 49 (2015)
