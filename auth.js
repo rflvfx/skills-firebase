@@ -15,3 +15,4 @@ console.log(cred.user.uid);
 - Add validation — iteration 37 (2015)
 - Fix lint warnings — iteration 40 (2015)
 - Add helper — iteration 44 (2015)
+- Update dependencies — iteration 45 (2015)
