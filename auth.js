@@ -17,3 +17,4 @@ console.log(cred.user.uid);
 - Add helper — iteration 44 (2015)
 - Update dependencies — iteration 45 (2015)
 - Add feature — iteration 54 (2015)
+- Document usage — iteration 58 (2015)
