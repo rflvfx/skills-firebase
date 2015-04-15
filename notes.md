@@ -6,3 +6,4 @@
 - Tweak implementation — iteration 23 (2015)
 - Add example — iteration 26 (2015)
 - Improve naming — iteration 32 (2015)
+- Document usage — iteration 36 (2015)
