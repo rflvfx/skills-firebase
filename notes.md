@@ -10,3 +10,4 @@
 - Tweak implementation — iteration 41 (2015)
 - Fix typo — iteration 48 (2015)
 - Update dependencies — iteration 52 (2015)
+- Optimize performance — iteration 53 (2015)
