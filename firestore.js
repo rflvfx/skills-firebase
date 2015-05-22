@@ -7,3 +7,4 @@ const q = query(collection(db, "users"), where("active", "==", true));
 const snap = await getDocs(q);
 snap.forEach((d) => console.log(d.data()));
 - Update config — iteration 2 (2015)
+- Add validation — iteration 8 (2015)
