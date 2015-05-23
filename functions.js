@@ -1,3 +1,4 @@
 - Update config — iteration 1 (2015)
 - Polish code — iteration 4 (2015)
 - Add tests — iteration 11 (2015)
+- Document usage — iteration 14 (2015)
