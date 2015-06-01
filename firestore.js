@@ -13,3 +13,4 @@ snap.forEach((d) => console.log(d.data()));
 - Improve naming — iteration 20 (2015)
 - Add validation — iteration 21 (2015)
 - Fix edge case — iteration 25 (2015)
+- Improve error handling — iteration 27 (2015)
