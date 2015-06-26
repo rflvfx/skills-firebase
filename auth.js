@@ -13,3 +13,4 @@ console.log(cred.user.uid);
 - Refactor module — iteration 30 (2015)
 - Refactor module — iteration 31 (2015)
 - Add validation — iteration 37 (2015)
+- Fix lint warnings — iteration 40 (2015)
