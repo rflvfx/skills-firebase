@@ -7,3 +7,4 @@ console.log(cred.user.uid);
 - Refactor module — iteration 7 (2015)
 - Extend coverage — iteration 10 (2015)
 - Add example — iteration 15 (2015)
+- Tweak implementation — iteration 16 (2015)
