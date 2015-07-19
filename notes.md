@@ -9,3 +9,4 @@
 - Document usage — iteration 36 (2015)
 - Tweak implementation — iteration 41 (2015)
 - Fix typo — iteration 48 (2015)
+- Update dependencies — iteration 52 (2015)
