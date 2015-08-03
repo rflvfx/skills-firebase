@@ -11,3 +11,4 @@ console.log(cred.user.uid);
 - Minor cleanup — iteration 18 (2015)
 - Update docs — iteration 24 (2015)
 - Refactor module — iteration 30 (2015)
+- Refactor module — iteration 31 (2015)
