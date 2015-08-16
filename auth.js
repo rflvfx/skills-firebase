@@ -12,3 +12,4 @@ console.log(cred.user.uid);
 - Update docs — iteration 24 (2015)
 - Refactor module — iteration 30 (2015)
 - Refactor module — iteration 31 (2015)
+- Add validation — iteration 37 (2015)
