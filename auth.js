@@ -8,3 +8,4 @@ console.log(cred.user.uid);
 - Extend coverage — iteration 10 (2015)
 - Add example — iteration 15 (2015)
 - Tweak implementation — iteration 16 (2015)
+- Minor cleanup — iteration 18 (2015)
