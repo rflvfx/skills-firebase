@@ -1,1 +1,2 @@
 - Update config — iteration 1 (2015)
+- Polish code — iteration 4 (2015)
