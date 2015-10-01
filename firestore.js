@@ -19,3 +19,4 @@ snap.forEach((d) => console.log(d.data()));
 - Optimize performance — iteration 34 (2015)
 - Extend coverage — iteration 42 (2015)
 - Document usage — iteration 47 (2015)
+- Refactor module — iteration 51 (2015)
