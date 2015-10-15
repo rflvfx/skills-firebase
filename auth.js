@@ -9,3 +9,4 @@ console.log(cred.user.uid);
 - Add example — iteration 15 (2015)
 - Tweak implementation — iteration 16 (2015)
 - Minor cleanup — iteration 18 (2015)
+- Update docs — iteration 24 (2015)
