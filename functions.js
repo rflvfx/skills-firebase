@@ -12,3 +12,4 @@
 - Add feature — iteration 49 (2015)
 - Minor cleanup — iteration 50 (2015)
 - Update config — iteration 55 (2015)
+- Add validation — iteration 57 (2015)
