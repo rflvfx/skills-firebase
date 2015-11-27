@@ -10,3 +10,4 @@ console.log(cred.user.uid);
 - Tweak implementation — iteration 16 (2015)
 - Minor cleanup — iteration 18 (2015)
 - Update docs — iteration 24 (2015)
+- Refactor module — iteration 30 (2015)
