@@ -17,3 +17,4 @@ snap.forEach((d) => console.log(d.data()));
 - Update dependencies — iteration 28 (2015)
 - Refactor module — iteration 29 (2015)
 - Optimize performance — iteration 34 (2015)
+- Extend coverage — iteration 42 (2015)
