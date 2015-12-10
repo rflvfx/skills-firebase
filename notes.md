@@ -1,1 +1,2 @@
 - Add tests — iteration 3 (2015)
+- Improve error handling — iteration 5 (2015)
