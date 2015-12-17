@@ -10,3 +10,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add validation — iteration 8 (2015)
 - Improve naming — iteration 9 (2015)
 - Optimize performance — iteration 17 (2015)
+- Improve naming — iteration 20 (2015)
