@@ -21,3 +21,4 @@ snap.forEach((d) => console.log(d.data()));
 - Document usage — iteration 47 (2015)
 - Refactor module — iteration 51 (2015)
 - Fix edge case — iteration 56 (2015)
+- Fix edge case — iteration 59 (2015)
