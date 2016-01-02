@@ -25,3 +25,4 @@ console.log(cred.user.uid);
 - Add tests — iteration 21 (2016)
 - Extend coverage — iteration 22 (2016)
 - Add helper — iteration 26 (2016)
+- Update docs — iteration 28 (2016)
