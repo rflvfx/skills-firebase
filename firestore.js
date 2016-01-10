@@ -33,3 +33,4 @@ snap.forEach((d) => console.log(d.data()));
 - Document usage — iteration 33 (2016)
 - Update docs — iteration 35 (2016)
 - Extend coverage — iteration 37 (2016)
+- Optimize performance — iteration 41 (2016)
