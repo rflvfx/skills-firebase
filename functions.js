@@ -20,3 +20,4 @@
 - Add validation — iteration 15 (2016)
 - Add validation — iteration 17 (2016)
 - Fix lint warnings — iteration 23 (2016)
+- Refactor module — iteration 34 (2016)
