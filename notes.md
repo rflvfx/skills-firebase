@@ -21,3 +21,4 @@
 - Update docs — iteration 30 (2016)
 - Add tests — iteration 36 (2016)
 - Update config — iteration 38 (2016)
+- Fix typo — iteration 54 (2016)
