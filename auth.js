@@ -27,3 +27,4 @@ console.log(cred.user.uid);
 - Add helper — iteration 26 (2016)
 - Update docs — iteration 28 (2016)
 - Update docs — iteration 31 (2016)
+- Document usage — iteration 32 (2016)
