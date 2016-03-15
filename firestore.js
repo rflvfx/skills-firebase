@@ -25,3 +25,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add feature — iteration 3 (2016)
 - Extend coverage — iteration 8 (2016)
 - Polish code — iteration 11 (2016)
+- Improve error handling — iteration 12 (2016)
