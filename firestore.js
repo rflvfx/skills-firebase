@@ -28,3 +28,4 @@ snap.forEach((d) => console.log(d.data()));
 - Improve error handling — iteration 12 (2016)
 - Add tests — iteration 16 (2016)
 - Fix lint warnings — iteration 19 (2016)
+- Extend coverage — iteration 24 (2016)
