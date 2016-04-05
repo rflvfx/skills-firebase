@@ -29,3 +29,4 @@ console.log(cred.user.uid);
 - Update docs — iteration 31 (2016)
 - Document usage — iteration 32 (2016)
 - Add tests — iteration 39 (2016)
+- Fix lint warnings — iteration 42 (2016)
