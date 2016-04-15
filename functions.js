@@ -27,3 +27,4 @@
 - Update docs — iteration 52 (2016)
 - Add tests — iteration 56 (2016)
 - Tweak implementation — iteration 58 (2016)
+- Extend coverage — iteration 59 (2016)
