@@ -13,3 +13,4 @@
 - Minor cleanup — iteration 50 (2015)
 - Update config — iteration 55 (2015)
 - Add validation — iteration 57 (2015)
+- Extend coverage — iteration 1 (2016)
