@@ -37,3 +37,4 @@ snap.forEach((d) => console.log(d.data()));
 - Optimize performance — iteration 44 (2016)
 - Fix edge case — iteration 45 (2016)
 - Document usage — iteration 47 (2016)
+- Add feature — iteration 50 (2016)
