@@ -30,3 +30,4 @@ console.log(cred.user.uid);
 - Document usage — iteration 32 (2016)
 - Add tests — iteration 39 (2016)
 - Fix lint warnings — iteration 42 (2016)
+- Add helper — iteration 46 (2016)
