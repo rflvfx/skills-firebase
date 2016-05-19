@@ -18,3 +18,4 @@
 - Improve naming — iteration 20 (2016)
 - Refactor module — iteration 27 (2016)
 - Tweak implementation — iteration 29 (2016)
+- Update docs — iteration 30 (2016)
