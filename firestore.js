@@ -38,3 +38,4 @@ snap.forEach((d) => console.log(d.data()));
 - Fix edge case — iteration 45 (2016)
 - Document usage — iteration 47 (2016)
 - Add feature — iteration 50 (2016)
+- Improve naming — iteration 53 (2016)
