@@ -20,3 +20,4 @@
 - Tweak implementation — iteration 29 (2016)
 - Update docs — iteration 30 (2016)
 - Add tests — iteration 36 (2016)
+- Update config — iteration 38 (2016)
