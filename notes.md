@@ -15,3 +15,4 @@
 - Polish code — iteration 13 (2016)
 - Add validation — iteration 14 (2016)
 - Extend coverage — iteration 18 (2016)
+- Improve naming — iteration 20 (2016)
