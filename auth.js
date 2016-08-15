@@ -32,3 +32,4 @@ console.log(cred.user.uid);
 - Fix lint warnings — iteration 42 (2016)
 - Add helper — iteration 46 (2016)
 - Add tests — iteration 48 (2016)
+- Add example — iteration 49 (2016)
