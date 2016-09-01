@@ -33,3 +33,4 @@ console.log(cred.user.uid);
 - Add helper — iteration 46 (2016)
 - Add tests — iteration 48 (2016)
 - Add example — iteration 49 (2016)
+- Add helper — iteration 57 (2016)
