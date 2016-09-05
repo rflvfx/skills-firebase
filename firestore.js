@@ -35,3 +35,4 @@ snap.forEach((d) => console.log(d.data()));
 - Extend coverage — iteration 37 (2016)
 - Optimize performance — iteration 41 (2016)
 - Optimize performance — iteration 44 (2016)
+- Fix edge case — iteration 45 (2016)
