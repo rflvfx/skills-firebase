@@ -20,3 +20,4 @@ console.log(cred.user.uid);
 - Document usage — iteration 58 (2015)
 - Document usage — iteration 4 (2016)
 - Update docs — iteration 6 (2016)
+- Fix edge case — iteration 7 (2016)
