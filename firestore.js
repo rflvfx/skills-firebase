@@ -27,3 +27,4 @@ snap.forEach((d) => console.log(d.data()));
 - Polish code — iteration 11 (2016)
 - Improve error handling — iteration 12 (2016)
 - Add tests — iteration 16 (2016)
+- Fix lint warnings — iteration 19 (2016)
