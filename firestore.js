@@ -30,3 +30,4 @@ snap.forEach((d) => console.log(d.data()));
 - Fix lint warnings — iteration 19 (2016)
 - Extend coverage — iteration 24 (2016)
 - Fix lint warnings — iteration 25 (2016)
+- Document usage — iteration 33 (2016)
