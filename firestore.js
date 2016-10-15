@@ -22,3 +22,4 @@ snap.forEach((d) => console.log(d.data()));
 - Refactor module — iteration 51 (2015)
 - Fix edge case — iteration 56 (2015)
 - Fix edge case — iteration 59 (2015)
+- Add feature — iteration 3 (2016)
