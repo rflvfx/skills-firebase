@@ -23,3 +23,4 @@ snap.forEach((d) => console.log(d.data()));
 - Fix edge case — iteration 56 (2015)
 - Fix edge case — iteration 59 (2015)
 - Add feature — iteration 3 (2016)
+- Extend coverage — iteration 8 (2016)
