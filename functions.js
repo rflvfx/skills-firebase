@@ -18,3 +18,4 @@
 - Minor cleanup — iteration 5 (2016)
 - Add example — iteration 10 (2016)
 - Add validation — iteration 15 (2016)
+- Add validation — iteration 17 (2016)
