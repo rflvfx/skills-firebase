@@ -18,3 +18,4 @@ console.log(cred.user.uid);
 - Update dependencies — iteration 45 (2015)
 - Add feature — iteration 54 (2015)
 - Document usage — iteration 58 (2015)
+- Document usage — iteration 4 (2016)
