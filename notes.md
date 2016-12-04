@@ -12,3 +12,4 @@
 - Update dependencies — iteration 52 (2015)
 - Optimize performance — iteration 53 (2015)
 - Add validation — iteration 60 (2015)
+- Polish code — iteration 13 (2016)
