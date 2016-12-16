@@ -23,3 +23,4 @@ console.log(cred.user.uid);
 - Fix edge case — iteration 7 (2016)
 - Polish code — iteration 9 (2016)
 - Add tests — iteration 21 (2016)
+- Extend coverage — iteration 22 (2016)
