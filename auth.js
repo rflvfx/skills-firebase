@@ -24,3 +24,4 @@ console.log(cred.user.uid);
 - Polish code — iteration 9 (2016)
 - Add tests — iteration 21 (2016)
 - Extend coverage — iteration 22 (2016)
+- Add helper — iteration 26 (2016)
