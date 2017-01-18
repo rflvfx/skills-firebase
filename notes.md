@@ -23,3 +23,4 @@
 - Update config — iteration 38 (2016)
 - Fix typo — iteration 54 (2016)
 - Add feature — iteration 2 (2017)
+- Add helper — iteration 3 (2017)
