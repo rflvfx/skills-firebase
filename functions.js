@@ -40,3 +40,4 @@
 - Add feature — iteration 42 (2017)
 - Add helper — iteration 44 (2017)
 - Fix lint warnings — iteration 49 (2017)
+- Improve error handling — iteration 53 (2017)
