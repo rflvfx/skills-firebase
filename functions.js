@@ -34,3 +34,4 @@
 - Optimize performance — iteration 16 (2017)
 - Document usage — iteration 18 (2017)
 - Add example — iteration 21 (2017)
+- Add helper — iteration 24 (2017)
