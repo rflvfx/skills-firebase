@@ -26,3 +26,4 @@
 - Add helper — iteration 3 (2017)
 - Add tests — iteration 5 (2017)
 - Update docs — iteration 9 (2017)
+- Tweak implementation — iteration 22 (2017)
