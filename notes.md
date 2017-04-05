@@ -28,3 +28,4 @@
 - Update docs — iteration 9 (2017)
 - Tweak implementation — iteration 22 (2017)
 - Optimize performance — iteration 25 (2017)
+- Add validation — iteration 26 (2017)
