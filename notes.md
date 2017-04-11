@@ -32,3 +32,4 @@
 - Fix edge case — iteration 31 (2017)
 - Minor cleanup — iteration 35 (2017)
 - Fix typo — iteration 40 (2017)
+- Add helper — iteration 41 (2017)
