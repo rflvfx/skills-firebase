@@ -29,3 +29,4 @@
 - Tweak implementation — iteration 22 (2017)
 - Optimize performance — iteration 25 (2017)
 - Add validation — iteration 26 (2017)
+- Fix edge case — iteration 31 (2017)
