@@ -37,3 +37,4 @@ console.log(cred.user.uid);
 - Fix typo — iteration 60 (2016)
 - Add helper — iteration 8 (2017)
 - Fix edge case — iteration 10 (2017)
+- Extend coverage — iteration 11 (2017)
