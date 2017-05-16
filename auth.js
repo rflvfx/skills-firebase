@@ -39,3 +39,4 @@ console.log(cred.user.uid);
 - Fix edge case — iteration 10 (2017)
 - Extend coverage — iteration 11 (2017)
 - Improve error handling — iteration 13 (2017)
+- Refactor module — iteration 14 (2017)
