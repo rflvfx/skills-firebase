@@ -38,3 +38,4 @@ console.log(cred.user.uid);
 - Add helper — iteration 8 (2017)
 - Fix edge case — iteration 10 (2017)
 - Extend coverage — iteration 11 (2017)
+- Improve error handling — iteration 13 (2017)
