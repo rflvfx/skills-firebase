@@ -36,3 +36,4 @@
 - Add example — iteration 21 (2017)
 - Add helper — iteration 24 (2017)
 - Tweak implementation — iteration 36 (2017)
+- Extend coverage — iteration 39 (2017)
