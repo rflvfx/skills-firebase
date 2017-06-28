@@ -47,3 +47,4 @@ console.log(cred.user.uid);
 - Add validation — iteration 33 (2017)
 - Polish code — iteration 38 (2017)
 - Optimize performance — iteration 47 (2017)
+- Add validation — iteration 52 (2017)
