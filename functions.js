@@ -31,3 +31,4 @@
 - Document usage — iteration 1 (2017)
 - Add example — iteration 6 (2017)
 - Minor cleanup — iteration 12 (2017)
+- Optimize performance — iteration 16 (2017)
