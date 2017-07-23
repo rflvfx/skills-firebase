@@ -34,3 +34,4 @@
 - Fix typo — iteration 40 (2017)
 - Add helper — iteration 41 (2017)
 - Add feature — iteration 43 (2017)
+- Fix edge case — iteration 45 (2017)
