@@ -27,3 +27,4 @@
 - Add tests — iteration 5 (2017)
 - Update docs — iteration 9 (2017)
 - Tweak implementation — iteration 22 (2017)
+- Optimize performance — iteration 25 (2017)
