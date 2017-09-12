@@ -37,3 +37,4 @@
 - Fix edge case — iteration 45 (2017)
 - Add validation — iteration 48 (2017)
 - Update docs — iteration 56 (2017)
+- Tweak implementation — iteration 57 (2017)
