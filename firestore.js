@@ -45,3 +45,4 @@ snap.forEach((d) => console.log(d.data()));
 - Optimize performance — iteration 19 (2017)
 - Add helper — iteration 20 (2017)
 - Extend coverage — iteration 28 (2017)
+- Improve naming — iteration 29 (2017)
