@@ -47,3 +47,4 @@ snap.forEach((d) => console.log(d.data()));
 - Extend coverage — iteration 28 (2017)
 - Improve naming — iteration 29 (2017)
 - Add helper — iteration 30 (2017)
+- Add feature — iteration 32 (2017)
