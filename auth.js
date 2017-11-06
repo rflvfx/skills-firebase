@@ -42,3 +42,4 @@ console.log(cred.user.uid);
 - Refactor module — iteration 14 (2017)
 - Improve naming — iteration 15 (2017)
 - Optimize performance — iteration 17 (2017)
+- Add tests — iteration 23 (2017)
