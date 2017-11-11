@@ -36,3 +36,4 @@ console.log(cred.user.uid);
 - Add helper — iteration 57 (2016)
 - Fix typo — iteration 60 (2016)
 - Add helper — iteration 8 (2017)
+- Fix edge case — iteration 10 (2017)
