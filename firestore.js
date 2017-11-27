@@ -44,3 +44,4 @@ snap.forEach((d) => console.log(d.data()));
 - Improve error handling — iteration 7 (2017)
 - Optimize performance — iteration 19 (2017)
 - Add helper — iteration 20 (2017)
+- Extend coverage — iteration 28 (2017)
