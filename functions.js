@@ -37,3 +37,4 @@
 - Add helper — iteration 24 (2017)
 - Tweak implementation — iteration 36 (2017)
 - Extend coverage — iteration 39 (2017)
+- Add feature — iteration 42 (2017)
