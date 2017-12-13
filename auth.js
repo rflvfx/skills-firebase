@@ -43,3 +43,4 @@ console.log(cred.user.uid);
 - Improve naming — iteration 15 (2017)
 - Optimize performance — iteration 17 (2017)
 - Add tests — iteration 23 (2017)
+- Add helper — iteration 27 (2017)
