@@ -35,3 +35,4 @@ console.log(cred.user.uid);
 - Add example — iteration 49 (2016)
 - Add helper — iteration 57 (2016)
 - Fix typo — iteration 60 (2016)
+- Add helper — iteration 8 (2017)
