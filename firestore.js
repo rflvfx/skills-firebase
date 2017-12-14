@@ -50,3 +50,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add feature — iteration 32 (2017)
 - Add feature — iteration 34 (2017)
 - Refactor module — iteration 37 (2017)
+- Improve naming — iteration 46 (2017)
