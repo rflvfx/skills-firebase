@@ -48,3 +48,4 @@ console.log(cred.user.uid);
 - Polish code — iteration 38 (2017)
 - Optimize performance — iteration 47 (2017)
 - Add validation — iteration 52 (2017)
+- Optimize performance — iteration 54 (2017)
