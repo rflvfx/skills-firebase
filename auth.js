@@ -44,3 +44,4 @@ console.log(cred.user.uid);
 - Optimize performance — iteration 17 (2017)
 - Add tests — iteration 23 (2017)
 - Add helper — iteration 27 (2017)
+- Add validation — iteration 33 (2017)
