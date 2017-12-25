@@ -30,3 +30,4 @@
 - Extend coverage — iteration 59 (2016)
 - Document usage — iteration 1 (2017)
 - Add example — iteration 6 (2017)
+- Minor cleanup — iteration 12 (2017)
