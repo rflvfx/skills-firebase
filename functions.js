@@ -51,3 +51,4 @@
 - Add feature — iteration 16 (2018)
 - Tweak implementation — iteration 17 (2018)
 - Add validation — iteration 18 (2018)
+- Add example — iteration 27 (2018)
