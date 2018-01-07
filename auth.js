@@ -61,3 +61,4 @@ console.log(cred.user.uid);
 - Fix edge case — iteration 39 (2018)
 - Document usage — iteration 44 (2018)
 - Fix typo — iteration 51 (2018)
+- Update dependencies — iteration 53 (2018)
