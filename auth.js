@@ -62,3 +62,4 @@ console.log(cred.user.uid);
 - Document usage — iteration 44 (2018)
 - Fix typo — iteration 51 (2018)
 - Update dependencies — iteration 53 (2018)
+- Extend coverage — iteration 56 (2018)
