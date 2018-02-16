@@ -60,3 +60,4 @@ console.log(cred.user.uid);
 - Fix typo — iteration 31 (2018)
 - Fix edge case — iteration 39 (2018)
 - Document usage — iteration 44 (2018)
+- Fix typo — iteration 51 (2018)
