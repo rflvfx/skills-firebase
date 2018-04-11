@@ -61,3 +61,4 @@
 - Update docs — iteration 49 (2018)
 - Add helper — iteration 54 (2018)
 - Add feature — iteration 57 (2018)
+- Polish code — iteration 58 (2018)
