@@ -68,3 +68,4 @@ snap.forEach((d) => console.log(d.data()));
 - Polish code — iteration 40 (2018)
 - Tweak implementation — iteration 48 (2018)
 - Add feature — iteration 52 (2018)
+- Add example — iteration 60 (2018)
