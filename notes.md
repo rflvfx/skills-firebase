@@ -40,3 +40,4 @@
 - Tweak implementation — iteration 57 (2017)
 - Improve error handling — iteration 3 (2018)
 - Extend coverage — iteration 13 (2018)
+- Fix lint warnings — iteration 21 (2018)
