@@ -44,3 +44,4 @@
 - Update config — iteration 55 (2017)
 - Fix lint warnings — iteration 58 (2017)
 - Improve error handling — iteration 1 (2018)
+- Update docs — iteration 2 (2018)
