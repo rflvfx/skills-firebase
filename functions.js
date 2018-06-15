@@ -49,3 +49,4 @@
 - Polish code — iteration 6 (2018)
 - Improve naming — iteration 15 (2018)
 - Add feature — iteration 16 (2018)
+- Tweak implementation — iteration 17 (2018)
