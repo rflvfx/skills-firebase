@@ -55,3 +55,4 @@ console.log(cred.user.uid);
 - Fix typo — iteration 8 (2018)
 - Fix edge case — iteration 9 (2018)
 - Fix edge case — iteration 14 (2018)
+- Minor cleanup — iteration 19 (2018)
