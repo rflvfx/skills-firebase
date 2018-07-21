@@ -42,3 +42,4 @@
 - Extend coverage — iteration 13 (2018)
 - Fix lint warnings — iteration 21 (2018)
 - Fix typo — iteration 24 (2018)
+- Add helper — iteration 28 (2018)
