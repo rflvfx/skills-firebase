@@ -52,3 +52,4 @@ console.log(cred.user.uid);
 - Update config — iteration 59 (2017)
 - Update dependencies — iteration 4 (2018)
 - Add example — iteration 7 (2018)
+- Fix typo — iteration 8 (2018)
