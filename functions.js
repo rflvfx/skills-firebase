@@ -56,3 +56,4 @@
 - Tweak implementation — iteration 34 (2018)
 - Add feature — iteration 36 (2018)
 - Update docs — iteration 42 (2018)
+- Fix lint warnings — iteration 43 (2018)
