@@ -56,3 +56,4 @@ console.log(cred.user.uid);
 - Fix edge case — iteration 9 (2018)
 - Fix edge case — iteration 14 (2018)
 - Minor cleanup — iteration 19 (2018)
+- Add validation — iteration 20 (2018)
