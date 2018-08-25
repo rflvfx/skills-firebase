@@ -55,3 +55,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add tests — iteration 51 (2017)
 - Tweak implementation — iteration 60 (2017)
 - Document usage — iteration 10 (2018)
+- Add tests — iteration 11 (2018)
