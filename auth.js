@@ -50,3 +50,4 @@ console.log(cred.user.uid);
 - Add validation — iteration 52 (2017)
 - Optimize performance — iteration 54 (2017)
 - Update config — iteration 59 (2017)
+- Update dependencies — iteration 4 (2018)
