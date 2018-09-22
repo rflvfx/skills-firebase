@@ -53,3 +53,4 @@ console.log(cred.user.uid);
 - Update dependencies — iteration 4 (2018)
 - Add example — iteration 7 (2018)
 - Fix typo — iteration 8 (2018)
+- Fix edge case — iteration 9 (2018)
