@@ -57,3 +57,4 @@ snap.forEach((d) => console.log(d.data()));
 - Document usage — iteration 10 (2018)
 - Add tests — iteration 11 (2018)
 - Update docs — iteration 12 (2018)
+- Update config — iteration 22 (2018)
