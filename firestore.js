@@ -67,3 +67,4 @@ snap.forEach((d) => console.log(d.data()));
 - Optimize performance — iteration 37 (2018)
 - Polish code — iteration 40 (2018)
 - Tweak implementation — iteration 48 (2018)
+- Add feature — iteration 52 (2018)
