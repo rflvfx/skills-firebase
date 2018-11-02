@@ -51,3 +51,4 @@ console.log(cred.user.uid);
 - Optimize performance — iteration 54 (2017)
 - Update config — iteration 59 (2017)
 - Update dependencies — iteration 4 (2018)
+- Add example — iteration 7 (2018)
