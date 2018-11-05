@@ -57,3 +57,4 @@
 - Add feature — iteration 36 (2018)
 - Update docs — iteration 42 (2018)
 - Fix lint warnings — iteration 43 (2018)
+- Fix typo — iteration 47 (2018)
