@@ -45,3 +45,4 @@
 - Fix lint warnings — iteration 58 (2017)
 - Improve error handling — iteration 1 (2018)
 - Update docs — iteration 2 (2018)
+- Minor cleanup — iteration 5 (2018)
