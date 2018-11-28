@@ -59,3 +59,4 @@
 - Fix lint warnings — iteration 43 (2018)
 - Fix typo — iteration 47 (2018)
 - Update docs — iteration 49 (2018)
+- Add helper — iteration 54 (2018)
