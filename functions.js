@@ -54,3 +54,4 @@
 - Add example — iteration 27 (2018)
 - Extend coverage — iteration 30 (2018)
 - Tweak implementation — iteration 34 (2018)
+- Add feature — iteration 36 (2018)
