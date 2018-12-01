@@ -59,3 +59,4 @@ console.log(cred.user.uid);
 - Add validation — iteration 20 (2018)
 - Fix typo — iteration 31 (2018)
 - Fix edge case — iteration 39 (2018)
+- Document usage — iteration 44 (2018)
