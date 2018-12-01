@@ -50,3 +50,4 @@
 - Improve naming — iteration 15 (2018)
 - Add feature — iteration 16 (2018)
 - Tweak implementation — iteration 17 (2018)
+- Add validation — iteration 18 (2018)
