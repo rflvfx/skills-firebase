@@ -49,3 +49,4 @@
 - Extend coverage — iteration 45 (2018)
 - Extend coverage — iteration 46 (2018)
 - Polish code — iteration 50 (2018)
+- Fix edge case — iteration 55 (2018)
