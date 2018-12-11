@@ -46,3 +46,4 @@
 - Improve error handling — iteration 1 (2018)
 - Update docs — iteration 2 (2018)
 - Minor cleanup — iteration 5 (2018)
+- Polish code — iteration 6 (2018)
