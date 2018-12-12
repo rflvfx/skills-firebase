@@ -63,3 +63,4 @@ snap.forEach((d) => console.log(d.data()));
 - Update config — iteration 26 (2018)
 - Fix typo — iteration 29 (2018)
 - Document usage — iteration 32 (2018)
+- Improve error handling — iteration 33 (2018)
