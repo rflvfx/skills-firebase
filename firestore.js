@@ -65,3 +65,4 @@ snap.forEach((d) => console.log(d.data()));
 - Document usage — iteration 32 (2018)
 - Improve error handling — iteration 33 (2018)
 - Optimize performance — iteration 37 (2018)
+- Polish code — iteration 40 (2018)
