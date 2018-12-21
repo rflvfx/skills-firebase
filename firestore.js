@@ -59,3 +59,4 @@ snap.forEach((d) => console.log(d.data()));
 - Update docs — iteration 12 (2018)
 - Update config — iteration 22 (2018)
 - Add validation — iteration 23 (2018)
+- Add helper — iteration 25 (2018)
