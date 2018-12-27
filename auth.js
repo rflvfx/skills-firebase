@@ -54,3 +54,4 @@ console.log(cred.user.uid);
 - Add example — iteration 7 (2018)
 - Fix typo — iteration 8 (2018)
 - Fix edge case — iteration 9 (2018)
+- Fix edge case — iteration 14 (2018)
