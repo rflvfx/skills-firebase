@@ -70,3 +70,4 @@ console.log(cred.user.uid);
 - Document usage — iteration 21 (2019)
 - Update dependencies — iteration 54 (2019)
 - Minor cleanup — iteration 57 (2019)
+- Update dependencies — iteration 60 (2019)
