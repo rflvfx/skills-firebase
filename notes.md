@@ -68,3 +68,4 @@
 - Extend coverage — iteration 44 (2019)
 - Minor cleanup — iteration 45 (2019)
 - Fix typo — iteration 50 (2019)
+- Improve error handling — iteration 58 (2019)
