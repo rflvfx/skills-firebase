@@ -72,3 +72,4 @@ snap.forEach((d) => console.log(d.data()));
 - Update docs — iteration 1 (2019)
 - Polish code — iteration 5 (2019)
 - Update config — iteration 11 (2019)
+- Add validation — iteration 20 (2019)
