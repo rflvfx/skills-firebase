@@ -54,3 +54,4 @@
 - Add example — iteration 6 (2019)
 - Add feature — iteration 7 (2019)
 - Update dependencies — iteration 8 (2019)
+- Fix edge case — iteration 10 (2019)
