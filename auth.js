@@ -67,3 +67,4 @@ console.log(cred.user.uid);
 - Improve error handling — iteration 9 (2019)
 - Fix typo — iteration 14 (2019)
 - Update docs — iteration 17 (2019)
+- Document usage — iteration 21 (2019)
