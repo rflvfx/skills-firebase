@@ -80,3 +80,4 @@ snap.forEach((d) => console.log(d.data()));
 - Extend coverage — iteration 27 (2019)
 - Add tests — iteration 28 (2019)
 - Add feature — iteration 30 (2019)
+- Add helper — iteration 33 (2019)
