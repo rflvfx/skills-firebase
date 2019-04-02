@@ -64,3 +64,4 @@ console.log(cred.user.uid);
 - Update dependencies — iteration 53 (2018)
 - Extend coverage — iteration 56 (2018)
 - Improve error handling — iteration 3 (2019)
+- Improve error handling — iteration 9 (2019)
