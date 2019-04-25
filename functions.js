@@ -72,3 +72,4 @@
 - Extend coverage — iteration 40 (2019)
 - Add feature — iteration 42 (2019)
 - Add validation — iteration 47 (2019)
+- Fix edge case — iteration 48 (2019)
