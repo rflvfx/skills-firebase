@@ -64,3 +64,4 @@
 - Polish code — iteration 58 (2018)
 - Polish code — iteration 59 (2018)
 - Fix lint warnings — iteration 2 (2019)
+- Update docs — iteration 12 (2019)
