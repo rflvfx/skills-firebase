@@ -56,3 +56,4 @@
 - Update dependencies — iteration 8 (2019)
 - Fix edge case — iteration 10 (2019)
 - Minor cleanup — iteration 13 (2019)
+- Document usage — iteration 15 (2019)
