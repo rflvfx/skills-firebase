@@ -81,3 +81,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add tests — iteration 28 (2019)
 - Add feature — iteration 30 (2019)
 - Add helper — iteration 33 (2019)
+- Add example — iteration 36 (2019)
