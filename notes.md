@@ -57,3 +57,4 @@
 - Fix edge case — iteration 10 (2019)
 - Minor cleanup — iteration 13 (2019)
 - Document usage — iteration 15 (2019)
+- Improve error handling — iteration 16 (2019)
