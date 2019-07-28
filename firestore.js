@@ -79,3 +79,4 @@ snap.forEach((d) => console.log(d.data()));
 - Improve naming — iteration 26 (2019)
 - Extend coverage — iteration 27 (2019)
 - Add tests — iteration 28 (2019)
+- Add feature — iteration 30 (2019)
