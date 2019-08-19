@@ -63,3 +63,4 @@ console.log(cred.user.uid);
 - Fix typo — iteration 51 (2018)
 - Update dependencies — iteration 53 (2018)
 - Extend coverage — iteration 56 (2018)
+- Improve error handling — iteration 3 (2019)
