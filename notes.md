@@ -60,3 +60,4 @@
 - Improve error handling — iteration 16 (2019)
 - Document usage — iteration 18 (2019)
 - Optimize performance — iteration 19 (2019)
+- Tweak implementation — iteration 29 (2019)
