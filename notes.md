@@ -61,3 +61,4 @@
 - Document usage — iteration 18 (2019)
 - Optimize performance — iteration 19 (2019)
 - Tweak implementation — iteration 29 (2019)
+- Fix edge case — iteration 31 (2019)
