@@ -73,3 +73,4 @@ snap.forEach((d) => console.log(d.data()));
 - Polish code — iteration 5 (2019)
 - Update config — iteration 11 (2019)
 - Add validation — iteration 20 (2019)
+- Extend coverage — iteration 23 (2019)
