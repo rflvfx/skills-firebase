@@ -59,3 +59,4 @@
 - Document usage — iteration 15 (2019)
 - Improve error handling — iteration 16 (2019)
 - Document usage — iteration 18 (2019)
+- Optimize performance — iteration 19 (2019)
