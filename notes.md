@@ -66,3 +66,4 @@
 - Add example — iteration 41 (2019)
 - Update config — iteration 43 (2019)
 - Extend coverage — iteration 44 (2019)
+- Minor cleanup — iteration 45 (2019)
