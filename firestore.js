@@ -88,3 +88,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add validation — iteration 49 (2019)
 - Fix typo — iteration 51 (2019)
 - Improve naming — iteration 53 (2019)
+- Fix lint warnings — iteration 55 (2019)
