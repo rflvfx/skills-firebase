@@ -76,3 +76,4 @@ snap.forEach((d) => console.log(d.data()));
 - Extend coverage — iteration 23 (2019)
 - Extend coverage — iteration 24 (2019)
 - Refactor module — iteration 25 (2019)
+- Improve naming — iteration 26 (2019)
