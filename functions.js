@@ -66,3 +66,4 @@
 - Fix lint warnings — iteration 2 (2019)
 - Update docs — iteration 12 (2019)
 - Polish code — iteration 22 (2019)
+- Extend coverage — iteration 32 (2019)
