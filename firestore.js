@@ -75,3 +75,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add validation — iteration 20 (2019)
 - Extend coverage — iteration 23 (2019)
 - Extend coverage — iteration 24 (2019)
+- Refactor module — iteration 25 (2019)
