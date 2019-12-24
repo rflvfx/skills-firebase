@@ -52,3 +52,4 @@
 - Fix edge case — iteration 55 (2018)
 - Fix edge case — iteration 4 (2019)
 - Add example — iteration 6 (2019)
+- Add feature — iteration 7 (2019)
