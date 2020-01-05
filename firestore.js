@@ -99,3 +99,4 @@ snap.forEach((d) => console.log(d.data()));
 - Polish code — iteration 29 (2020)
 - Extend coverage — iteration 37 (2020)
 - Add helper — iteration 38 (2020)
+- Add tests — iteration 44 (2020)
