@@ -79,3 +79,4 @@
 - Fix edge case — iteration 9 (2020)
 - Refactor module — iteration 12 (2020)
 - Tweak implementation — iteration 13 (2020)
+- Add validation — iteration 16 (2020)
