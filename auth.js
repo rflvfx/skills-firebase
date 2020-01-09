@@ -75,3 +75,4 @@ console.log(cred.user.uid);
 - Update dependencies — iteration 4 (2020)
 - Document usage — iteration 8 (2020)
 - Fix lint warnings — iteration 11 (2020)
+- Refactor module — iteration 14 (2020)
