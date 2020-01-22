@@ -84,3 +84,4 @@ console.log(cred.user.uid);
 - Extend coverage — iteration 45 (2020)
 - Update docs — iteration 48 (2020)
 - Fix edge case — iteration 53 (2020)
+- Refactor module — iteration 55 (2020)
