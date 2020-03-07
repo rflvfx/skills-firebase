@@ -80,3 +80,4 @@ console.log(cred.user.uid);
 - Add validation — iteration 26 (2020)
 - Update config — iteration 28 (2020)
 - Polish code — iteration 32 (2020)
+- Improve naming — iteration 35 (2020)
