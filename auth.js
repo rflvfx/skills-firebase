@@ -79,3 +79,4 @@ console.log(cred.user.uid);
 - Improve error handling — iteration 24 (2020)
 - Add validation — iteration 26 (2020)
 - Update config — iteration 28 (2020)
+- Polish code — iteration 32 (2020)
