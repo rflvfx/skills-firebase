@@ -71,3 +71,4 @@ console.log(cred.user.uid);
 - Update dependencies — iteration 54 (2019)
 - Minor cleanup — iteration 57 (2019)
 - Update dependencies — iteration 60 (2019)
+- Fix lint warnings — iteration 1 (2020)
