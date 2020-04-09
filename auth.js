@@ -83,3 +83,4 @@ console.log(cred.user.uid);
 - Improve naming — iteration 35 (2020)
 - Extend coverage — iteration 45 (2020)
 - Update docs — iteration 48 (2020)
+- Fix edge case — iteration 53 (2020)
