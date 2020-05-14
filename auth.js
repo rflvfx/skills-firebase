@@ -77,3 +77,4 @@ console.log(cred.user.uid);
 - Fix lint warnings — iteration 11 (2020)
 - Refactor module — iteration 14 (2020)
 - Improve error handling — iteration 24 (2020)
+- Add validation — iteration 26 (2020)
