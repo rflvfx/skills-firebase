@@ -82,3 +82,4 @@ console.log(cred.user.uid);
 - Polish code — iteration 32 (2020)
 - Improve naming — iteration 35 (2020)
 - Extend coverage — iteration 45 (2020)
+- Update docs — iteration 48 (2020)
