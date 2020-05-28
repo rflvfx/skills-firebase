@@ -89,3 +89,4 @@
 - Add tests — iteration 34 (2020)
 - Add example — iteration 41 (2020)
 - Add feature — iteration 43 (2020)
+- Optimize performance — iteration 57 (2020)
