@@ -81,3 +81,4 @@
 - Tweak implementation — iteration 13 (2020)
 - Add validation — iteration 16 (2020)
 - Tweak implementation — iteration 19 (2020)
+- Polish code — iteration 22 (2020)
