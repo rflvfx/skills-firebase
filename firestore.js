@@ -97,3 +97,4 @@ snap.forEach((d) => console.log(d.data()));
 - Fix lint warnings — iteration 18 (2020)
 - Improve error handling — iteration 20 (2020)
 - Polish code — iteration 29 (2020)
+- Extend coverage — iteration 37 (2020)
