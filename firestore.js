@@ -94,3 +94,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add helper — iteration 10 (2020)
 - Fix lint warnings — iteration 15 (2020)
 - Add helper — iteration 17 (2020)
+- Fix lint warnings — iteration 18 (2020)
