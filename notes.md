@@ -79,3 +79,4 @@
 - Add feature — iteration 39 (2020)
 - Update dependencies — iteration 40 (2020)
 - Improve error handling — iteration 42 (2020)
+- Fix typo — iteration 47 (2020)
