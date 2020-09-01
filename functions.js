@@ -82,3 +82,4 @@
 - Add validation — iteration 16 (2020)
 - Tweak implementation — iteration 19 (2020)
 - Polish code — iteration 22 (2020)
+- Fix typo — iteration 25 (2020)
