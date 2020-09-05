@@ -72,3 +72,4 @@
 - Fix typo — iteration 2 (2020)
 - Improve error handling — iteration 3 (2020)
 - Document usage — iteration 6 (2020)
+- Update dependencies — iteration 21 (2020)
