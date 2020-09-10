@@ -73,3 +73,4 @@ console.log(cred.user.uid);
 - Update dependencies — iteration 60 (2019)
 - Fix lint warnings — iteration 1 (2020)
 - Update dependencies — iteration 4 (2020)
+- Document usage — iteration 8 (2020)
