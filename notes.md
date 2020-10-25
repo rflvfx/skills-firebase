@@ -74,3 +74,4 @@
 - Document usage — iteration 6 (2020)
 - Update dependencies — iteration 21 (2020)
 - Add tests — iteration 23 (2020)
+- Tweak implementation — iteration 27 (2020)
