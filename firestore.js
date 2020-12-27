@@ -104,3 +104,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add feature — iteration 49 (2020)
 - Tweak implementation — iteration 50 (2020)
 - Update docs — iteration 56 (2020)
+- Fix lint warnings — iteration 58 (2020)
