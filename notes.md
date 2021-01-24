@@ -87,3 +87,4 @@
 - Fix typo — iteration 9 (2021)
 - Polish code — iteration 13 (2021)
 - Refactor module — iteration 15 (2021)
+- Add validation — iteration 22 (2021)
