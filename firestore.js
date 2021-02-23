@@ -109,3 +109,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add example — iteration 60 (2020)
 - Add helper — iteration 1 (2021)
 - Add validation — iteration 4 (2021)
+- Document usage — iteration 5 (2021)
