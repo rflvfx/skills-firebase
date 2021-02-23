@@ -96,3 +96,4 @@
 - Fix edge case — iteration 42 (2021)
 - Extend coverage — iteration 43 (2021)
 - Add example — iteration 45 (2021)
+- Minor cleanup — iteration 50 (2021)
