@@ -92,3 +92,4 @@ console.log(cred.user.uid);
 - Document usage — iteration 17 (2021)
 - Fix typo — iteration 21 (2021)
 - Add example — iteration 25 (2021)
+- Tweak implementation — iteration 26 (2021)
