@@ -90,3 +90,4 @@
 - Add example — iteration 41 (2020)
 - Add feature — iteration 43 (2020)
 - Optimize performance — iteration 57 (2020)
+- Minor cleanup — iteration 2 (2021)
