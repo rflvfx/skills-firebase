@@ -97,3 +97,4 @@
 - Update config — iteration 29 (2021)
 - Tweak implementation — iteration 30 (2021)
 - Improve error handling — iteration 38 (2021)
+- Fix typo — iteration 44 (2021)
