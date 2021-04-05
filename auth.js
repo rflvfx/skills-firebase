@@ -93,3 +93,4 @@ console.log(cred.user.uid);
 - Fix typo — iteration 21 (2021)
 - Add example — iteration 25 (2021)
 - Tweak implementation — iteration 26 (2021)
+- Improve error handling — iteration 27 (2021)
