@@ -90,3 +90,4 @@ console.log(cred.user.uid);
 - Refactor module — iteration 10 (2021)
 - Update dependencies — iteration 14 (2021)
 - Document usage — iteration 17 (2021)
+- Fix typo — iteration 21 (2021)
