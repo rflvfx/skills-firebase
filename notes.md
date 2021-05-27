@@ -84,3 +84,4 @@
 - Refactor module — iteration 52 (2020)
 - Extend coverage — iteration 54 (2020)
 - Tweak implementation — iteration 3 (2021)
+- Fix typo — iteration 9 (2021)
