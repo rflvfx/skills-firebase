@@ -102,3 +102,4 @@ console.log(cred.user.uid);
 - Extend coverage — iteration 52 (2021)
 - Update dependencies — iteration 53 (2021)
 - Tweak implementation — iteration 57 (2021)
+- Polish code — iteration 58 (2021)
