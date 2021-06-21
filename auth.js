@@ -89,3 +89,4 @@ console.log(cred.user.uid);
 - Add feature — iteration 8 (2021)
 - Refactor module — iteration 10 (2021)
 - Update dependencies — iteration 14 (2021)
+- Document usage — iteration 17 (2021)
