@@ -98,3 +98,4 @@ console.log(cred.user.uid);
 - Add validation — iteration 31 (2021)
 - Add helper — iteration 34 (2021)
 - Extend coverage — iteration 46 (2021)
+- Update config — iteration 48 (2021)
