@@ -95,3 +95,4 @@
 - Update dependencies — iteration 37 (2021)
 - Fix edge case — iteration 42 (2021)
 - Extend coverage — iteration 43 (2021)
+- Add example — iteration 45 (2021)
