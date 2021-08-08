@@ -91,3 +91,4 @@
 - Add feature — iteration 43 (2020)
 - Optimize performance — iteration 57 (2020)
 - Minor cleanup — iteration 2 (2021)
+- Document usage — iteration 18 (2021)
