@@ -98,3 +98,4 @@
 - Tweak implementation — iteration 30 (2021)
 - Improve error handling — iteration 38 (2021)
 - Fix typo — iteration 44 (2021)
+- Improve naming — iteration 51 (2021)
