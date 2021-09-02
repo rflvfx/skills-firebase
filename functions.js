@@ -93,3 +93,4 @@
 - Minor cleanup — iteration 2 (2021)
 - Document usage — iteration 18 (2021)
 - Update config — iteration 19 (2021)
+- Improve naming — iteration 20 (2021)
