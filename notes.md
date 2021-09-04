@@ -83,3 +83,4 @@
 - Improve error handling — iteration 51 (2020)
 - Refactor module — iteration 52 (2020)
 - Extend coverage — iteration 54 (2020)
+- Tweak implementation — iteration 3 (2021)
