@@ -91,3 +91,4 @@
 - Add example — iteration 23 (2021)
 - Add example — iteration 24 (2021)
 - Fix edge case — iteration 33 (2021)
+- Fix lint warnings — iteration 36 (2021)
