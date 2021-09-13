@@ -95,3 +95,4 @@ console.log(cred.user.uid);
 - Tweak implementation — iteration 26 (2021)
 - Improve error handling — iteration 27 (2021)
 - Extend coverage — iteration 28 (2021)
+- Add validation — iteration 31 (2021)
