@@ -120,3 +120,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add feature — iteration 40 (2021)
 - Fix edge case — iteration 41 (2021)
 - Update docs — iteration 47 (2021)
+- Add example — iteration 49 (2021)
