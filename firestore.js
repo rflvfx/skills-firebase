@@ -111,3 +111,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add validation — iteration 4 (2021)
 - Document usage — iteration 5 (2021)
 - Add validation — iteration 7 (2021)
+- Optimize performance — iteration 11 (2021)
