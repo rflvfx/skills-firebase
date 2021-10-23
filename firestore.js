@@ -117,3 +117,4 @@ snap.forEach((d) => console.log(d.data()));
 - Extend coverage — iteration 32 (2021)
 - Optimize performance — iteration 35 (2021)
 - Optimize performance — iteration 39 (2021)
+- Add feature — iteration 40 (2021)
