@@ -94,3 +94,4 @@
 - Document usage — iteration 18 (2021)
 - Update config — iteration 19 (2021)
 - Improve naming — iteration 20 (2021)
+- Update config — iteration 29 (2021)
