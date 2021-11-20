@@ -86,3 +86,4 @@ console.log(cred.user.uid);
 - Fix edge case — iteration 53 (2020)
 - Refactor module — iteration 55 (2020)
 - Minor cleanup — iteration 6 (2021)
+- Add feature — iteration 8 (2021)
