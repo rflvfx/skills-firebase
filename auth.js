@@ -94,3 +94,4 @@ console.log(cred.user.uid);
 - Add example — iteration 25 (2021)
 - Tweak implementation — iteration 26 (2021)
 - Improve error handling — iteration 27 (2021)
+- Extend coverage — iteration 28 (2021)
