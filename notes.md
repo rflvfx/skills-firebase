@@ -85,3 +85,4 @@
 - Extend coverage — iteration 54 (2020)
 - Tweak implementation — iteration 3 (2021)
 - Fix typo — iteration 9 (2021)
+- Polish code — iteration 13 (2021)
