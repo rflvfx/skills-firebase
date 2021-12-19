@@ -94,3 +94,4 @@
 - Fix lint warnings — iteration 36 (2021)
 - Update dependencies — iteration 37 (2021)
 - Fix edge case — iteration 42 (2021)
+- Extend coverage — iteration 43 (2021)
