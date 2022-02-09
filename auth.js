@@ -105,3 +105,4 @@ console.log(cred.user.uid);
 - Polish code — iteration 58 (2021)
 - Extend coverage — iteration 6 (2022)
 - Add feature — iteration 9 (2022)
+- Fix typo — iteration 10 (2022)
