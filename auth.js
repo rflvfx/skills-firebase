@@ -110,3 +110,4 @@ console.log(cred.user.uid);
 - Extend coverage — iteration 14 (2022)
 - Update config — iteration 19 (2022)
 - Tweak implementation — iteration 22 (2022)
+- Improve error handling — iteration 26 (2022)
