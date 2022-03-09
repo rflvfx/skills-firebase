@@ -99,3 +99,4 @@
 - Improve error handling — iteration 38 (2021)
 - Fix typo — iteration 44 (2021)
 - Improve naming — iteration 51 (2021)
+- Improve naming — iteration 1 (2022)
