@@ -111,3 +111,4 @@ console.log(cred.user.uid);
 - Update config — iteration 19 (2022)
 - Tweak implementation — iteration 22 (2022)
 - Improve error handling — iteration 26 (2022)
+- Document usage — iteration 40 (2022)
