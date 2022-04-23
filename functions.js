@@ -100,3 +100,4 @@
 - Fix typo — iteration 44 (2021)
 - Improve naming — iteration 51 (2021)
 - Improve naming — iteration 1 (2022)
+- Minor cleanup — iteration 3 (2022)
