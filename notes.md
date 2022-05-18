@@ -112,3 +112,4 @@
 - Minor cleanup — iteration 44 (2022)
 - Refactor module — iteration 51 (2022)
 - Fix lint warnings — iteration 54 (2022)
+- Document usage — iteration 57 (2022)
