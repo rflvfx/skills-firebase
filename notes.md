@@ -108,3 +108,4 @@
 - Add example — iteration 24 (2022)
 - Update config — iteration 31 (2022)
 - Fix lint warnings — iteration 41 (2022)
+- Extend coverage — iteration 43 (2022)
