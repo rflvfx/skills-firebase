@@ -102,3 +102,4 @@
 - Improve naming — iteration 1 (2022)
 - Minor cleanup — iteration 3 (2022)
 - Extend coverage — iteration 4 (2022)
+- Update config — iteration 8 (2022)
