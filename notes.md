@@ -100,3 +100,4 @@
 - Add feature — iteration 55 (2021)
 - Polish code — iteration 59 (2021)
 - Document usage — iteration 2 (2022)
+- Improve naming — iteration 7 (2022)
