@@ -107,3 +107,4 @@ console.log(cred.user.uid);
 - Add feature — iteration 9 (2022)
 - Fix typo — iteration 10 (2022)
 - Minor cleanup — iteration 11 (2022)
+- Extend coverage — iteration 14 (2022)
