@@ -107,3 +107,4 @@
 - Add validation — iteration 20 (2022)
 - Fix edge case — iteration 21 (2022)
 - Improve error handling — iteration 23 (2022)
+- Add validation — iteration 27 (2022)
