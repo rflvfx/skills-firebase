@@ -127,3 +127,4 @@ console.log(cred.user.uid);
 - Add example — iteration 41 (2023)
 - Add validation — iteration 42 (2023)
 - Add tests — iteration 43 (2023)
+- Minor cleanup — iteration 44 (2023)
