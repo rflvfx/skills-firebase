@@ -114,3 +114,4 @@
 - Fix lint warnings — iteration 54 (2022)
 - Document usage — iteration 57 (2022)
 - Minor cleanup — iteration 1 (2023)
+- Document usage — iteration 6 (2023)
