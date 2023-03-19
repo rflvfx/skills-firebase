@@ -124,3 +124,4 @@
 - Improve naming — iteration 27 (2023)
 - Update docs — iteration 29 (2023)
 - Refactor module — iteration 30 (2023)
+- Document usage — iteration 39 (2023)
