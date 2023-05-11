@@ -125,3 +125,4 @@ console.log(cred.user.uid);
 - Improve naming — iteration 31 (2023)
 - Fix edge case — iteration 35 (2023)
 - Add example — iteration 41 (2023)
+- Add validation — iteration 42 (2023)
