@@ -119,3 +119,4 @@ console.log(cred.user.uid);
 - Add example — iteration 9 (2023)
 - Polish code — iteration 11 (2023)
 - Extend coverage — iteration 12 (2023)
+- Update config — iteration 18 (2023)
