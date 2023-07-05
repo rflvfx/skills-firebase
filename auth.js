@@ -129,3 +129,4 @@ console.log(cred.user.uid);
 - Add tests — iteration 43 (2023)
 - Minor cleanup — iteration 44 (2023)
 - Add example — iteration 46 (2023)
+- Optimize performance — iteration 47 (2023)
