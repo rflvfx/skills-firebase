@@ -122,3 +122,4 @@ console.log(cred.user.uid);
 - Update config — iteration 18 (2023)
 - Refactor module — iteration 21 (2023)
 - Extend coverage — iteration 26 (2023)
+- Improve naming — iteration 31 (2023)
