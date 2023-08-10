@@ -131,3 +131,4 @@ console.log(cred.user.uid);
 - Add example — iteration 46 (2023)
 - Optimize performance — iteration 47 (2023)
 - Update config — iteration 50 (2023)
+- Fix edge case — iteration 56 (2023)
