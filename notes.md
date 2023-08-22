@@ -121,3 +121,4 @@
 - Add example — iteration 16 (2023)
 - Polish code — iteration 24 (2023)
 - Document usage — iteration 25 (2023)
+- Improve naming — iteration 27 (2023)
