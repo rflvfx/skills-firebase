@@ -124,3 +124,4 @@
 - Minor cleanup — iteration 13 (2023)
 - Add feature — iteration 20 (2023)
 - Add example — iteration 22 (2023)
+- Improve error handling — iteration 23 (2023)
