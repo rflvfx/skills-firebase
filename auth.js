@@ -117,3 +117,4 @@ console.log(cred.user.uid);
 - Improve error handling — iteration 2 (2023)
 - Improve naming — iteration 5 (2023)
 - Add example — iteration 9 (2023)
+- Polish code — iteration 11 (2023)
