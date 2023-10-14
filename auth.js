@@ -115,3 +115,4 @@ console.log(cred.user.uid);
 - Improve error handling — iteration 42 (2022)
 - Extend coverage — iteration 52 (2022)
 - Improve error handling — iteration 2 (2023)
+- Improve naming — iteration 5 (2023)
