@@ -127,3 +127,4 @@
 - Improve error handling — iteration 23 (2023)
 - Update dependencies — iteration 32 (2023)
 - Refactor module — iteration 33 (2023)
+- Add feature — iteration 37 (2023)
