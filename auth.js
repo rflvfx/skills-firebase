@@ -120,3 +120,4 @@ console.log(cred.user.uid);
 - Polish code — iteration 11 (2023)
 - Extend coverage — iteration 12 (2023)
 - Update config — iteration 18 (2023)
+- Refactor module — iteration 21 (2023)
