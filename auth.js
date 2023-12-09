@@ -114,3 +114,4 @@ console.log(cred.user.uid);
 - Document usage — iteration 40 (2022)
 - Improve error handling — iteration 42 (2022)
 - Extend coverage — iteration 52 (2022)
+- Improve error handling — iteration 2 (2023)
