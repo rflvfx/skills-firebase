@@ -147,3 +147,4 @@ console.log(cred.user.uid);
 - Polish code — iteration 47 (2024)
 - Document usage — iteration 50 (2024)
 - Fix edge case — iteration 55 (2024)
+- Add tests — iteration 56 (2024)
