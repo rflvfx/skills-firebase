@@ -144,3 +144,4 @@
 - Polish code — iteration 34 (2024)
 - Tweak implementation — iteration 36 (2024)
 - Fix typo — iteration 38 (2024)
+- Improve naming — iteration 40 (2024)
