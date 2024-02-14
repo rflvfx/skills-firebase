@@ -138,3 +138,4 @@ console.log(cred.user.uid);
 - Improve error handling — iteration 13 (2024)
 - Update dependencies — iteration 16 (2024)
 - Add helper — iteration 17 (2024)
+- Tweak implementation — iteration 18 (2024)
