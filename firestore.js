@@ -161,3 +161,4 @@ snap.forEach((d) => console.log(d.data()));
 - Minor cleanup — iteration 46 (2024)
 - Extend coverage — iteration 48 (2024)
 - Add tests — iteration 52 (2024)
+- Extend coverage — iteration 60 (2024)
