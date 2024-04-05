@@ -137,3 +137,4 @@
 - Polish code — iteration 2 (2024)
 - Document usage — iteration 3 (2024)
 - Document usage — iteration 9 (2024)
+- Improve naming — iteration 14 (2024)
