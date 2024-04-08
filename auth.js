@@ -146,3 +146,4 @@ console.log(cred.user.uid);
 - Add validation — iteration 45 (2024)
 - Polish code — iteration 47 (2024)
 - Document usage — iteration 50 (2024)
+- Fix edge case — iteration 55 (2024)
