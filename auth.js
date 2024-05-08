@@ -141,3 +141,4 @@ console.log(cred.user.uid);
 - Tweak implementation — iteration 18 (2024)
 - Document usage — iteration 22 (2024)
 - Fix edge case — iteration 23 (2024)
+- Refactor module — iteration 27 (2024)
