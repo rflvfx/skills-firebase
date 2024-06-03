@@ -137,3 +137,4 @@
 - Fix lint warnings — iteration 10 (2024)
 - Add helper — iteration 12 (2024)
 - Add tests — iteration 19 (2024)
+- Document usage — iteration 21 (2024)
