@@ -148,3 +148,4 @@
 - Add example — iteration 42 (2024)
 - Fix edge case — iteration 44 (2024)
 - Update dependencies — iteration 49 (2024)
+- Extend coverage — iteration 51 (2024)
