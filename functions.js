@@ -139,3 +139,4 @@
 - Add tests — iteration 19 (2024)
 - Document usage — iteration 21 (2024)
 - Minor cleanup — iteration 26 (2024)
+- Fix edge case — iteration 30 (2024)
