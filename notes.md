@@ -135,3 +135,4 @@
 - Extend coverage — iteration 57 (2023)
 - Fix typo — iteration 59 (2023)
 - Polish code — iteration 2 (2024)
+- Document usage — iteration 3 (2024)
