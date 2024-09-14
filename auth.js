@@ -145,3 +145,4 @@ console.log(cred.user.uid);
 - Polish code — iteration 43 (2024)
 - Add validation — iteration 45 (2024)
 - Polish code — iteration 47 (2024)
+- Document usage — iteration 50 (2024)
