@@ -132,3 +132,4 @@
 - Update docs — iteration 51 (2023)
 - Update dependencies — iteration 1 (2024)
 - Add tests — iteration 5 (2024)
+- Fix typo — iteration 6 (2024)
