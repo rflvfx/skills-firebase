@@ -136,3 +136,4 @@
 - Fix typo — iteration 59 (2023)
 - Polish code — iteration 2 (2024)
 - Document usage — iteration 3 (2024)
+- Document usage — iteration 9 (2024)
