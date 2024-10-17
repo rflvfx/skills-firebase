@@ -147,3 +147,4 @@ snap.forEach((d) => console.log(d.data()));
 - Improve naming — iteration 36 (2023)
 - Add helper — iteration 55 (2023)
 - Add feature — iteration 4 (2024)
+- Fix typo — iteration 11 (2024)
