@@ -140,3 +140,4 @@ console.log(cred.user.uid);
 - Add helper — iteration 17 (2024)
 - Tweak implementation — iteration 18 (2024)
 - Document usage — iteration 22 (2024)
+- Fix edge case — iteration 23 (2024)
