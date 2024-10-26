@@ -134,3 +134,4 @@ console.log(cred.user.uid);
 - Fix edge case — iteration 56 (2023)
 - Fix lint warnings — iteration 58 (2023)
 - Fix lint warnings — iteration 60 (2023)
+- Add helper — iteration 7 (2024)
