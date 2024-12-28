@@ -139,3 +139,4 @@ console.log(cred.user.uid);
 - Update dependencies — iteration 16 (2024)
 - Add helper — iteration 17 (2024)
 - Tweak implementation — iteration 18 (2024)
+- Document usage — iteration 22 (2024)
