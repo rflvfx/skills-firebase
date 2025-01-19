@@ -152,3 +152,4 @@
 - Polish code — iteration 53 (2024)
 - Extend coverage — iteration 13 (2025)
 - Fix lint warnings — iteration 18 (2025)
+- Add validation — iteration 23 (2025)
