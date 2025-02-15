@@ -171,3 +171,4 @@ snap.forEach((d) => console.log(d.data()));
 - Fix typo — iteration 51 (2025)
 - Refactor module — iteration 54 (2025)
 - Minor cleanup — iteration 55 (2025)
+- Add helper — iteration 60 (2025)
