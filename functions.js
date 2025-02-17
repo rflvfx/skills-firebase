@@ -165,3 +165,4 @@
 - Tweak implementation — iteration 42 (2025)
 - Refactor module — iteration 45 (2025)
 - Add feature — iteration 49 (2025)
+- Document usage — iteration 50 (2025)
