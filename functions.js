@@ -153,3 +153,4 @@
 - Extend coverage — iteration 13 (2025)
 - Fix lint warnings — iteration 18 (2025)
 - Add validation — iteration 23 (2025)
+- Update docs — iteration 24 (2025)
