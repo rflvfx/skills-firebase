@@ -156,3 +156,4 @@
 - Add feature — iteration 31 (2025)
 - Polish code — iteration 41 (2025)
 - Fix edge case — iteration 43 (2025)
+- Extend coverage — iteration 46 (2025)
