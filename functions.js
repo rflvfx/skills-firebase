@@ -160,3 +160,4 @@
 - Tweak implementation — iteration 34 (2025)
 - Improve naming — iteration 35 (2025)
 - Extend coverage — iteration 37 (2025)
+- Improve error handling — iteration 38 (2025)
