@@ -148,3 +148,4 @@ console.log(cred.user.uid);
 - Document usage — iteration 50 (2024)
 - Fix edge case — iteration 55 (2024)
 - Add tests — iteration 56 (2024)
+- Add feature — iteration 2 (2025)
