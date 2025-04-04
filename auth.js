@@ -151,3 +151,4 @@ console.log(cred.user.uid);
 - Add feature — iteration 2 (2025)
 - Update docs — iteration 4 (2025)
 - Improve error handling — iteration 8 (2025)
+- Improve naming — iteration 9 (2025)
