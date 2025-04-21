@@ -162,3 +162,4 @@ snap.forEach((d) => console.log(d.data()));
 - Extend coverage — iteration 48 (2024)
 - Add tests — iteration 52 (2024)
 - Extend coverage — iteration 60 (2024)
+- Fix edge case — iteration 7 (2025)
