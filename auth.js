@@ -154,3 +154,4 @@ console.log(cred.user.uid);
 - Improve naming — iteration 9 (2025)
 - Fix edge case — iteration 11 (2025)
 - Add helper — iteration 12 (2025)
+- Improve error handling — iteration 19 (2025)
