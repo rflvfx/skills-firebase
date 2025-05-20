@@ -144,3 +144,4 @@
 - Update docs — iteration 57 (2024)
 - Fix typo — iteration 58 (2024)
 - Extend coverage — iteration 59 (2024)
+- Polish code — iteration 1 (2025)
