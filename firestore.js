@@ -165,3 +165,4 @@ snap.forEach((d) => console.log(d.data()));
 - Fix edge case — iteration 7 (2025)
 - Add example — iteration 15 (2025)
 - Fix lint warnings — iteration 16 (2025)
+- Fix lint warnings — iteration 17 (2025)
