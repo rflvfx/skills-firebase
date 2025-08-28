@@ -163,3 +163,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add tests — iteration 52 (2024)
 - Extend coverage — iteration 60 (2024)
 - Fix edge case — iteration 7 (2025)
+- Add example — iteration 15 (2025)
