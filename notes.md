@@ -149,3 +149,4 @@
 - Update docs — iteration 5 (2025)
 - Fix typo — iteration 6 (2025)
 - Tweak implementation — iteration 10 (2025)
+- Polish code — iteration 14 (2025)
