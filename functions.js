@@ -159,3 +159,4 @@
 - Optimize performance — iteration 33 (2025)
 - Tweak implementation — iteration 34 (2025)
 - Improve naming — iteration 35 (2025)
+- Extend coverage — iteration 37 (2025)
