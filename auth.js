@@ -159,3 +159,4 @@ console.log(cred.user.uid);
 - Optimize performance — iteration 21 (2025)
 - Fix typo — iteration 26 (2025)
 - Minor cleanup — iteration 27 (2025)
+- Add example — iteration 32 (2025)
