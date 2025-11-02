@@ -154,3 +154,4 @@
 - Fix lint warnings — iteration 18 (2025)
 - Add validation — iteration 23 (2025)
 - Update docs — iteration 24 (2025)
+- Add helper — iteration 25 (2025)
