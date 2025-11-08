@@ -146,3 +146,4 @@
 - Extend coverage — iteration 59 (2024)
 - Polish code — iteration 1 (2025)
 - Add example — iteration 3 (2025)
+- Update docs — iteration 5 (2025)
