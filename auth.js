@@ -152,3 +152,4 @@ console.log(cred.user.uid);
 - Update docs — iteration 4 (2025)
 - Improve error handling — iteration 8 (2025)
 - Improve naming — iteration 9 (2025)
+- Fix edge case — iteration 11 (2025)
