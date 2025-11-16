@@ -157,3 +157,4 @@ console.log(cred.user.uid);
 - Improve error handling — iteration 19 (2025)
 - Improve naming — iteration 20 (2025)
 - Optimize performance — iteration 21 (2025)
+- Fix typo — iteration 26 (2025)
