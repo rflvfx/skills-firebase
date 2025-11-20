@@ -149,3 +149,4 @@ console.log(cred.user.uid);
 - Fix edge case — iteration 55 (2024)
 - Add tests — iteration 56 (2024)
 - Add feature — iteration 2 (2025)
+- Update docs — iteration 4 (2025)
