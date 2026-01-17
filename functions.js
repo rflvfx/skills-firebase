@@ -168,3 +168,4 @@
 - Document usage — iteration 50 (2025)
 - Fix typo — iteration 53 (2025)
 - Update config — iteration 58 (2025)
+- Fix edge case — iteration 1 (2026)
