@@ -183,3 +183,4 @@ snap.forEach((d) => console.log(d.data()));
 - Minor cleanup — iteration 32 (2026)
 - Update config — iteration 34 (2026)
 - Update dependencies — iteration 37 (2026)
+- Improve naming — iteration 38 (2026)
