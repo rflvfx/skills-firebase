@@ -169,3 +169,4 @@
 - Fix typo — iteration 53 (2025)
 - Update config — iteration 58 (2025)
 - Fix edge case — iteration 1 (2026)
+- Add helper — iteration 2 (2026)
