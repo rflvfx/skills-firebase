@@ -180,3 +180,4 @@ snap.forEach((d) => console.log(d.data()));
 - Fix typo — iteration 23 (2026)
 - Fix typo — iteration 29 (2026)
 - Add tests — iteration 31 (2026)
+- Minor cleanup — iteration 32 (2026)
