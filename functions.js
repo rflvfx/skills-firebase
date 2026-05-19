@@ -172,3 +172,4 @@
 - Add helper — iteration 2 (2026)
 - Tweak implementation — iteration 4 (2026)
 - Add feature — iteration 8 (2026)
+- Add feature — iteration 12 (2026)
