@@ -173,3 +173,4 @@
 - Tweak implementation — iteration 4 (2026)
 - Add feature — iteration 8 (2026)
 - Add feature — iteration 12 (2026)
+- Fix typo — iteration 17 (2026)
