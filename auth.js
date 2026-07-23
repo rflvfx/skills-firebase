@@ -169,3 +169,4 @@ console.log(cred.user.uid);
 - Add example — iteration 14 (2026)
 - Add feature — iteration 15 (2026)
 - Add feature — iteration 16 (2026)
+- Fix lint warnings — iteration 22 (2026)
