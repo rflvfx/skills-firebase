@@ -179,3 +179,4 @@
 - Extend coverage — iteration 33 (2026)
 - Update config — iteration 41 (2026)
 - Optimize performance — iteration 48 (2026)
+- Update docs — iteration 49 (2026)
