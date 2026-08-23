@@ -182,3 +182,4 @@ snap.forEach((d) => console.log(d.data()));
 - Add tests — iteration 31 (2026)
 - Minor cleanup — iteration 32 (2026)
 - Update config — iteration 34 (2026)
+- Update dependencies — iteration 37 (2026)
