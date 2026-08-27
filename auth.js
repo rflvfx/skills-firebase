@@ -170,3 +170,4 @@ console.log(cred.user.uid);
 - Add feature — iteration 15 (2026)
 - Add feature — iteration 16 (2026)
 - Fix lint warnings — iteration 22 (2026)
+- Add validation — iteration 24 (2026)
