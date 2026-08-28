@@ -172,3 +172,4 @@ console.log(cred.user.uid);
 - Fix lint warnings — iteration 22 (2026)
 - Add validation — iteration 24 (2026)
 - Add helper — iteration 26 (2026)
+- Improve error handling — iteration 30 (2026)
