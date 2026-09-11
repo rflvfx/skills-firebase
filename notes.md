@@ -165,3 +165,4 @@
 - Extend coverage — iteration 18 (2026)
 - Update config — iteration 20 (2026)
 - Polish code — iteration 25 (2026)
+- Minor cleanup — iteration 27 (2026)
